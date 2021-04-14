@@ -1,0 +1,17 @@
+.modal {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-top: -360px;
+    margin-left: 520px;
+    background-color: #419d78;
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+}
+.inp-modal {
+    margin-top: 10px;
+}
+.modal-btn {
+    margin-top: 17px;
+}

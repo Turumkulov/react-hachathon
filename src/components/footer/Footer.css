@@ -1,0 +1,23 @@
+.footer {
+    margin-top: 40px;
+    background-color: #1f487e;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+#logo-footer {
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.footer-items {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.item {
+    margin-top: 10px;
+    font-size: 28px;
+    color: azure;
+}
+.item:hover {
+    color: #419d78;
+}
